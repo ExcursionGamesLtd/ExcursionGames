@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Excursion Games",
-    "currentPage": "index.html",
+    "currentPage": "Careers.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -256,7 +256,7 @@
         "css": "'Manrope', sans-serif"
       }
     ],
-    "uniqCompNum": 16,
+    "uniqCompNum": 24,
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/311016001-5830186713680092-5616706024377978475-n-128x92.png",
     "mbrsiteDomain": "zv4k7t6tpi",
@@ -1644,10 +1644,12 @@
         }
       ]
     },
-    "page1.html": {
+    "Careers.html": {
       "settings": {
         "title": "Careers",
-        "order": "1"
+        "order": "2",
+        "meta_image": "@PROJECT_PATH@/assets/images/311016001_5830186713680092_5616706024377978475_n-1424x1024.jpg",
+        "meta_descr": ""
       },
       "components": [
         {
