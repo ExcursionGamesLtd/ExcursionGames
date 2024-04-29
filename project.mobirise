@@ -267,7 +267,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
@@ -278,7 +278,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/311016001-5830186713680092-5616706024377978475-n-646x465.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/311016001_5830186713680092_5616706024377978475_n-1-646x465.jpeg"
       },
       "components": [
         {
@@ -1648,7 +1648,7 @@
       "settings": {
         "title": "Careers",
         "order": "2",
-        "meta_image": "@PROJECT_PATH@/assets/images/311016001_5830186713680092_5616706024377978475_n-1424x1024.jpg",
+        "meta_image": "@PROJECT_PATH@/assets/images/careers-1424x1024.jpg",
         "meta_descr": ""
       },
       "components": [
